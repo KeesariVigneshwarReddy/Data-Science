@@ -1,0 +1,4 @@
+INFO:root:this is my print statement
+ERROR:root:this is my error statement
+CRITICAL:root:this is my critical statement
+WARNING:root:this is my warning statement
